@@ -3,6 +3,7 @@
 */
 // Paging Module: FIFO + LRU implementation verified
 // Segmentation Module: base-limit table added
+// Virtual Memory Module: page table, page size, faults, replacements
 
 
 
